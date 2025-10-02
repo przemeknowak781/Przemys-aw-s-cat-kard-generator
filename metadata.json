@@ -1,0 +1,5 @@
+{
+  "name": "AI Cat Poker Cards",
+  "description": "Generate a hand of three unique poker-style cards, each featuring a unique, AI-generated image of a cat styled to match the card's rank and suit.",
+  "requestFramePermissions": []
+}
